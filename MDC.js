@@ -2,7 +2,7 @@ let n1;
 let n2;
 let ent;
 let maior;
-console.log('Digite dois numeros para receber o MMC');
+console.log('Digite dois numeros para receber o MDC');
 process.stdin.on('data', function(data)
 {
     ent=+data.toString().trim()
