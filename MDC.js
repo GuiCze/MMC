@@ -21,7 +21,7 @@ process.stdin.on('data', function(data)
         }
     else
         {   
-            for(i=maior;i>1;i--)
+            for(i=maior;i>0;i--)
                 {
                     if(n1%i==0&&n2%i==0)
                         {
